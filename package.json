@@ -12,11 +12,11 @@
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.9.0",
-    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
     "@babel/preset-typescript": "^7.9.0",
-    "@types/jest": "^25.1.5",
-    "babel-jest": "^25.2.6",
-    "jest": "^25.2.6",
+    "@types/jest": "^25.2.1",
+    "babel-jest": "^25.4.0",
+    "jest": "^25.4.0",
     "ts-node": "^8.9.1",
     "typescript": "^3.8.3"
   },
