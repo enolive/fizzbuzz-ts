@@ -43,5 +43,8 @@
         "single"
       ]
     }
+  },
+  "jest": {
+    "preset": "ts-jest"
   }
 }
