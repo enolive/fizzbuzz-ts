@@ -1,3 +1,3 @@
 test('canary', () => {
-  expect(true).toEqual(false);
-});
+  expect(true).toEqual(false)
+})
