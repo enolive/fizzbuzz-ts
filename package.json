@@ -35,14 +35,15 @@
     ],
     "rules": {
       "semi": [
-        "warn",
+        "error",
         "never"
       ],
       "quotes": [
-        "warn",
+        "error",
         "single"
       ],
-      "eqeqeq": "warn"
+      "eqeqeq": "error",
+      "@typescript-eslint/explicit-module-boundary-types": "error"
     }
   },
   "jest": {
